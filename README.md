@@ -23,5 +23,7 @@ Pour l'instant, les données utilisées pour l'instant sont les suivantes :
 * Les données sur les doses journalières recommandées
    http://www.whocc.no/atc_ddd_index/
  
+## Origine
 
+Ce travail a été initié par Leo Bouloc et Alexis Eidelman sur ce [repo](https://github.com/Leobouloc/medicaments)
 
