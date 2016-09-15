@@ -15,6 +15,9 @@ Pour l'instant, les données utilisées pour l'instant sont les suivantes :
    * Les conditions de prescriptions et de délivrance
    * Les informations importantes
 
+* OpenMedic : Base complète sur les dépenses de médicaments interrégimes enrichies des dénombrements de consommants
+https://www.data.gouv.fr/fr/datasets/open-medic-base-complete-sur-les-depenses-de-medicaments-interregimes/
+
 * La base de données des médicaments 
    http://www.codage.ext.cnamts.fr/codif/bdm/index.php
 
